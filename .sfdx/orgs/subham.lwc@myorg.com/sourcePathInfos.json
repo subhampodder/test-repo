@@ -1,0 +1,147 @@
+{
+  "C:\\Users\\spodder\\Documents\\sfdxBasics\\sxd1\\force-app": {
+    "sourcePath": "C:\\Users\\spodder\\Documents\\sfdxBasics\\sxd1\\force-app",
+    "isDirectory": true,
+    "modifiedTime": 1628788751832,
+    "changeTime": 1628788751832,
+    "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+    "state": "n",
+    "isArtifactRoot": true,
+    "package": "force-app"
+  },
+  "C:\\Users\\spodder\\Documents\\sfdxBasics\\sxd1\\force-app\\main": {
+    "sourcePath": "C:\\Users\\spodder\\Documents\\sfdxBasics\\sxd1\\force-app\\main",
+    "isDirectory": true,
+    "modifiedTime": 1628788751855,
+    "changeTime": 1628788751855,
+    "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+    "state": "n",
+    "package": "force-app"
+  },
+  "C:\\Users\\spodder\\Documents\\sfdxBasics\\sxd1\\force-app\\main\\default": {
+    "sourcePath": "C:\\Users\\spodder\\Documents\\sfdxBasics\\sxd1\\force-app\\main\\default",
+    "isDirectory": true,
+    "modifiedTime": 1628788752134,
+    "changeTime": 1628788752134,
+    "contentHash": "134fb9100108b9aaba9aee713cf235d514fd8f88",
+    "state": "n",
+    "package": "force-app"
+  },
+  "C:\\Users\\spodder\\Documents\\sfdxBasics\\sxd1\\force-app\\main\\default\\applications": {
+    "sourcePath": "C:\\Users\\spodder\\Documents\\sfdxBasics\\sxd1\\force-app\\main\\default\\applications",
+    "isDirectory": true,
+    "modifiedTime": 1628788751857,
+    "changeTime": 1628788751857,
+    "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+    "state": "n",
+    "package": "force-app"
+  },
+  "C:\\Users\\spodder\\Documents\\sfdxBasics\\sxd1\\force-app\\main\\default\\aura": {
+    "sourcePath": "C:\\Users\\spodder\\Documents\\sfdxBasics\\sxd1\\force-app\\main\\default\\aura",
+    "isDirectory": true,
+    "modifiedTime": 1628788752142,
+    "changeTime": 1628788752142,
+    "contentHash": "71c20a341bfe32aa5cd5b4384e94f942bab6a7d3",
+    "state": "n",
+    "package": "force-app"
+  },
+  "C:\\Users\\spodder\\Documents\\sfdxBasics\\sxd1\\force-app\\main\\default\\classes": {
+    "sourcePath": "C:\\Users\\spodder\\Documents\\sfdxBasics\\sxd1\\force-app\\main\\default\\classes",
+    "isDirectory": true,
+    "modifiedTime": 1628788751868,
+    "changeTime": 1628788751868,
+    "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+    "state": "n",
+    "package": "force-app"
+  },
+  "C:\\Users\\spodder\\Documents\\sfdxBasics\\sxd1\\force-app\\main\\default\\contentassets": {
+    "sourcePath": "C:\\Users\\spodder\\Documents\\sfdxBasics\\sxd1\\force-app\\main\\default\\contentassets",
+    "isDirectory": true,
+    "modifiedTime": 1628788751873,
+    "changeTime": 1628788751873,
+    "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+    "state": "n",
+    "package": "force-app"
+  },
+  "C:\\Users\\spodder\\Documents\\sfdxBasics\\sxd1\\force-app\\main\\default\\flexipages": {
+    "sourcePath": "C:\\Users\\spodder\\Documents\\sfdxBasics\\sxd1\\force-app\\main\\default\\flexipages",
+    "isDirectory": true,
+    "modifiedTime": 1628788751880,
+    "changeTime": 1628788751880,
+    "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+    "state": "n",
+    "package": "force-app"
+  },
+  "C:\\Users\\spodder\\Documents\\sfdxBasics\\sxd1\\force-app\\main\\default\\layouts": {
+    "sourcePath": "C:\\Users\\spodder\\Documents\\sfdxBasics\\sxd1\\force-app\\main\\default\\layouts",
+    "isDirectory": true,
+    "modifiedTime": 1628788751883,
+    "changeTime": 1628788751883,
+    "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+    "state": "n",
+    "package": "force-app"
+  },
+  "C:\\Users\\spodder\\Documents\\sfdxBasics\\sxd1\\force-app\\main\\default\\lwc": {
+    "sourcePath": "C:\\Users\\spodder\\Documents\\sfdxBasics\\sxd1\\force-app\\main\\default\\lwc",
+    "isDirectory": true,
+    "modifiedTime": 1628788771145,
+    "changeTime": 1628788771145,
+    "contentHash": "a973ac1b5be0e216b2a2db1b82ae5ba97f4086f4",
+    "state": "n",
+    "package": "force-app"
+  },
+  "C:\\Users\\spodder\\Documents\\sfdxBasics\\sxd1\\force-app\\main\\default\\objects": {
+    "sourcePath": "C:\\Users\\spodder\\Documents\\sfdxBasics\\sxd1\\force-app\\main\\default\\objects",
+    "isDirectory": true,
+    "modifiedTime": 1628788751890,
+    "changeTime": 1628788751890,
+    "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+    "state": "n",
+    "package": "force-app"
+  },
+  "C:\\Users\\spodder\\Documents\\sfdxBasics\\sxd1\\force-app\\main\\default\\permissionsets": {
+    "sourcePath": "C:\\Users\\spodder\\Documents\\sfdxBasics\\sxd1\\force-app\\main\\default\\permissionsets",
+    "isDirectory": true,
+    "modifiedTime": 1628788751893,
+    "changeTime": 1628788751893,
+    "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+    "state": "n",
+    "package": "force-app"
+  },
+  "C:\\Users\\spodder\\Documents\\sfdxBasics\\sxd1\\force-app\\main\\default\\staticresources": {
+    "sourcePath": "C:\\Users\\spodder\\Documents\\sfdxBasics\\sxd1\\force-app\\main\\default\\staticresources",
+    "isDirectory": true,
+    "modifiedTime": 1628788751898,
+    "changeTime": 1628788751898,
+    "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+    "state": "n",
+    "package": "force-app"
+  },
+  "C:\\Users\\spodder\\Documents\\sfdxBasics\\sxd1\\force-app\\main\\default\\tabs": {
+    "sourcePath": "C:\\Users\\spodder\\Documents\\sfdxBasics\\sxd1\\force-app\\main\\default\\tabs",
+    "isDirectory": true,
+    "modifiedTime": 1628788751906,
+    "changeTime": 1628788751906,
+    "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+    "state": "n",
+    "package": "force-app"
+  },
+  "C:\\Users\\spodder\\Documents\\sfdxBasics\\sxd1\\force-app\\main\\default\\triggers": {
+    "sourcePath": "C:\\Users\\spodder\\Documents\\sfdxBasics\\sxd1\\force-app\\main\\default\\triggers",
+    "isDirectory": true,
+    "modifiedTime": 1628788751911,
+    "changeTime": 1628788751911,
+    "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+    "state": "n",
+    "package": "force-app"
+  },
+  "C:\\Users\\spodder\\Documents\\sfdxBasics\\sxd1": {
+    "sourcePath": "C:\\Users\\spodder\\Documents\\sfdxBasics\\sxd1",
+    "isDirectory": true,
+    "modifiedTime": 1628788769205,
+    "changeTime": 1628788769205,
+    "contentHash": "0ab7d01103197eca9b35614f1e05d160fac1a07b",
+    "state": "n",
+    "isWorkspace": true
+  }
+}
